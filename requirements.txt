@@ -1,0 +1,5 @@
+Django==4.2.4
+djangorestframework
+MetaTrader5
+pandas
+numpy==1.24.4
